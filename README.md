@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PaulRayan78
+- 👀 I’m interested in pursuing a career in data science and wish to be a data scientist.
+- 🌱 I’m currently learning MS-SQL, Python and libraries such as numpy, pandas, scipy.stats, statsmodels and sklearn
+- Along with some visualization packages such as matplotlib.pyplot and seaborn.
+- In the meantime i would like to update on my learning and post my projects here.
